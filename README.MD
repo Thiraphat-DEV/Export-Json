@@ -1,6 +1,11 @@
-## Require Json from 'https://jsonplaceholder.typicode.com/users
+Require Json from
+```'https://jsonplaceholder.typicode.com/users```
 
-##Require viteJs template React 
+Clone Repository
+```git clone https://github,com/Thiraphat-DEV/Export-Json.git```
+
+
+## Require viteJs template React 
  
 ## Run file 
 ## cd CSV-JSON
@@ -9,4 +14,4 @@
 
 
 
-## Thank you for ReadMyself and Enjoy for CODE
+## Thank you for ReadMyself 
