@@ -1,8 +1,10 @@
+```
 Require Json from
-```'https://jsonplaceholder.typicode.com/users```
+https://jsonplaceholder.typicode.com/users```
 
+```
 Clone Repository
-```git clone https://github,com/Thiraphat-DEV/Export-Json.git```
+git clone https://github,com/Thiraphat-DEV/Export-Json.git```
 
 
 ## Require viteJs template React 
